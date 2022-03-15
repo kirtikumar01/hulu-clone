@@ -7,7 +7,7 @@ import requests from '../utils/requests';
 
 const Home = ({results}) => {
 
-  console.log(results)
+  // console.log(results)
 
   return (
     <div className="">
